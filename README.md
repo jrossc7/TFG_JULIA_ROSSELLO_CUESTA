@@ -1,4 +1,4 @@
-# TFG: Prototipo Software de Asistencia a la Detección de Nistagmo mediante VNG
+# TFG: Diseño y desarrollo de un sistema de asistencia a la detección de nistagmo
 
 Este repositorio contiene el código desarrollado como parte del **Trabajo de Fin de Grado (TFG)** de **Julia Rosselló Cuesta**, orientado al diseño e implementación de un prototipo software capaz de procesar vídeos oculares procedentes de un videonistagmoscopio para detectar y caracterizar nistagmo de forma automática.
 
